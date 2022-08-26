@@ -119,7 +119,7 @@ If they don't stop, you can warn them, 3 warnings should be a kick, while 5 shou
 If they still didn't stop, mute them temporarily.
 ~~~~
 
-### Innapropriate language (Member uses Innapropriate language to bully someone)
+### Innapropriate language (Member uses Inappropriate language to bully someone)
 ~~~~
 If it isn't that bad of a situation, you can warn them.
 If they started using Racial slurs or stuff like that, permanently ban them.
