@@ -50,3 +50,45 @@ Giveaway Tickets - The member that created the ticket probably won a giveaway, w
 Remember, only ONE staff member can respond to a ticket.
 ~~~~
 
+## Here are the basic rules (taken from #rules)
+~~~~
+1. Be Respectful
+You must respect all users, regardless of your liking towards them. Treat others the way you want to be treated.
+
+2. No Inappropriate Language
+The use of profanity should be kept to a minimum. However, any derogatory language towards any user is prohibited.
+
+3. No spamming
+Don't send a lot of small messages right after each other. Do not disrupt chat by spamming.
+
+4. No adult/gory material
+This is a community server and not meant to share this kind of material.
+
+5. No advertisements
+We do not tolerate any kind of advertisements, whether it be for other communities or streams. You can message an administrator fan-art to send it in the #🎨・fanart channel if it is relevant and provides actual value (Art)
+
+6. No offensive names and profile pictures
+You will be asked to change your name or picture if the staff deems them inappropriate.
+
+7. Server Raiding
+Raiding or mentions of raiding are not allowed.
+
+8. Direct & Indirect Threats
+Threats to other users of DDoS, Death, DoX, abuse, and other malicious threats are absolutely prohibited and disallowed.
+
+9. Follow the Discord TOS
+You can find them here: https://discordapp.com/guidelines
+
+10. Do not join voice chat channels without permission of the people already in there
+If you see that they have a free spot it is alright to join and ask whether they have an open spot, but leave if your presence is not wanted by whoever was there first.
+
+11. Do not mention ranks and/or members for no reason
+Don't just ping @Zeez , or anyone for that matter for no reason, it's not cool.
+
+12. Use channels for its purpose.
+Ex. Use channels like 🤖・bot-commands for bot commands, and not for chatting.
+
+13. Do not harass members.
+Do not make fun of people. This could be for who they are, what they do, etc.
+The Admins and Mods will Mute/Kick/Ban per discretion. If you feel mistreated dm an Admin and we will resolve the issue.
+~~~~
