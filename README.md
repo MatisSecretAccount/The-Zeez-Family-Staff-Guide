@@ -109,3 +109,19 @@ When is Zeez gonna stream?
 Be patient. Sometimes Zeez has to take a break!
 But, you can DM a Adminstrator with the Friend role.
 ~~~~
+
+## What should I do?
+
+### When someone is spamming in chat
+~~~~
+First, you could ask them to stop, if they do, you can move on.
+If they don't stop, you can warn them, 3 warnings should be a kick, while 5 should be a temporary or permanent ban.
+If they still didn't stop, mute them temporarily.
+~~~~
+
+### Innapropriate language (Member uses Innapropriate language to bully someone)
+~~~~
+If it isn't that bad of a situation, you can warn them.
+If they started using Racial slurs or stuff like that, permanently ban them.
+~~~~
+
