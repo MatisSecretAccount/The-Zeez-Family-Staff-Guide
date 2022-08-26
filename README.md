@@ -125,3 +125,4 @@ If it isn't that bad of a situation, you can warn them. (if you ask them to stop
 If they started using Racial slurs or stuff like that, permanently ban them.
 ~~~~
 
+# Thanks for being in the staff team!
