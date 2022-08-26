@@ -121,7 +121,7 @@ If they still didn't stop, mute them temporarily.
 
 ### Innapropriate language (Member uses Inappropriate language to bully someone)
 ~~~~
-If it isn't that bad of a situation, you can warn them.
+If it isn't that bad of a situation, you can warn them. (if you ask them to stop, and they don't, mute them.)
 If they started using Racial slurs or stuff like that, permanently ban them.
 ~~~~
 
