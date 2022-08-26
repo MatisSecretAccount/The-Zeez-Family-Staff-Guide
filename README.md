@@ -92,3 +92,20 @@ Ex. Use channels like 🤖・bot-commands for bot commands, and not for chatting
 Do not make fun of people. This could be for who they are, what they do, etc.
 The Admins and Mods will Mute/Kick/Ban per discretion. If you feel mistreated dm an Admin and we will resolve the issue.
 ~~~~
+
+## FAQ (taken from #faq)
+~~~~
+How to get Roblox Verified role?
+Use /verify in the #bot-commands channel.
+Please don't create tickets asking about this information! There are too many of these!
+
+Can I get Moderator/Helper role?
+Applications have been released! go ahead, anyone can apply!
+
+Can I get Youtuber role?
+You can receive the Youtuber role once you reached 1000 subscribers on youtube. Please DM a Moderator or Administrator to receive it!
+
+When is Zeez gonna stream?
+Be patient. Sometimes Zeez has to take a break!
+But, you can DM a Adminstrator with the Friend role.
+~~~~
